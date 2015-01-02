@@ -2,6 +2,8 @@
 
 ## Suppliers
 
+### USA
+
 Name                | Country   | Phone | Email |
 ---                 |---        |----   |---    |
 Tube Depot          | 
@@ -13,7 +15,7 @@ Audio Spares        | UK        |
 RS Components       | UK        |
 Thomann             | EU        |
 Double Nickels 55   | UK        |
-Modulus Amplification   | UK        | http://modulusamplification.com
+Modulus Amps		| UK        | http://modulusamplification.com
 Hammond             | ??        |
 ClassicTone         | ??        |
 Weber               | US        |
@@ -21,6 +23,8 @@ Mojotone            | US        |
 Guitar Kit Builder  | US        | http://guitarkitbuilder.com/amplifiers/
 
 ## Tools
+- Taken from TubeDepot.com
+
 
 Tool    | Cost  | Description   |
 --------|------:|---------|
